@@ -1,0 +1,15 @@
+Traffic Simulator
+
+By  : Sep Taheri
+
+Assembly
+
+Description :: Using an ARM Eduational board provided by the University of Victoria, 
+I developed a Traffic Light simulator that compares to the real world.
+
+The board included buttons, multiple screens for walking indicator, traffic lights,
+pedestrians, cars and a buzzer.
+
+Re-wrote in C and Assembly.
+
+
